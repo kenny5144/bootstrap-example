@@ -1,2 +1,7 @@
-cent{
-    
+body{
+    height: 100%;
+}
+.cent{
+    height: 100%;
+    margin-top: 10rem;
+}
